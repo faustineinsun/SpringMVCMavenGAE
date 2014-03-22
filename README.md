@@ -1,5 +1,5 @@
 - In Eclipse  
-    - Install `Spring IDEi` by using [Eclipse Marketplace](http://www.mkyong.com/spring/how-to-install-spring-ide-in-eclipse/)  
+    - Install `Spring IDE` by using [Eclipse Marketplace](http://www.mkyong.com/spring/how-to-install-spring-ide-in-eclipse/)  
     - [Install GAE](https://developers.google.com/appengine/docs/java/tools/eclipse) -> http://dl.google.com/eclipse/plugin/4.3    
 - Import this maven project into Eclipse  
 - Run on local  
