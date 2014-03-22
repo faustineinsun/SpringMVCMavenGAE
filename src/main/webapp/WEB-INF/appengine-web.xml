@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE xml>
 <appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
-  <application>gaemvnspring</application>
+  <application>your_google_app_id</application>
   <version>1</version>
 
   <!--
